@@ -136,6 +136,14 @@
               "description": "Talk with Claude, an AI assistant from Anthropic",
               "icon": "https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/a13d1acfd046f503f987c1c95af582c8_low_res_Claude.png",
               "enabled": true
+            },
+            {
+              "id": "1759482376272",
+              "title": "Aistudio",
+              "href": "https://aistudio.google.com/prompts/new_chat",
+              "description": "访问 aistudio.google.com",
+              "icon": "/assets/favicon_1759482380497.png",
+              "enabled": true
             }
           ]
         },
