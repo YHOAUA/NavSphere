@@ -105,7 +105,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "a9ddcb78-7e4f-4c3b-a38e-144a042aa125",
+          "title": "Chat",
+          "icon": "Users",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1759386499635",
