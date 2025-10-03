@@ -129,6 +129,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "c72049b1-b941-45d5-8327-d6486caf5c4c",
+          "title": "Sound",
+          "icon": "Music",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
