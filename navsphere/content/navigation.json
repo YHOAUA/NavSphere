@@ -113,6 +113,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "858d3d69-4847-4c41-b8b0-556d89f9f938",
+          "title": "Painting",
+          "icon": "Image",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
