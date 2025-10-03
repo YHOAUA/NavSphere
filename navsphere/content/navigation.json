@@ -120,6 +120,14 @@
               "description": "",
               "icon": "/assets/favicon_1759481720568.png",
               "enabled": true
+            },
+            {
+              "id": "1759482074060",
+              "title": "Gemini",
+              "href": "https://gemini.google.com",
+              "description": "",
+              "icon": "https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/2181972e7245a99ff8bb57aeb9a84bd5_low_res_gemini.png",
+              "enabled": true
             }
           ]
         },
