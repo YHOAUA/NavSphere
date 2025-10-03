@@ -152,6 +152,14 @@
               "description": "",
               "icon": "https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/906545898a9db8fb6a01326774a9ea67_low_res_Google_AI_Studio.png",
               "enabled": true
+            },
+            {
+              "id": "1759482490223",
+              "title": "Perplexity",
+              "href": "https://www.perplexity.ai",
+              "description": "",
+              "icon": "/assets/favicon_1759482492754.png",
+              "enabled": true
             }
           ]
         },
