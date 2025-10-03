@@ -121,6 +121,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "efc17349-2147-4628-8739-5ddcaf0c5fb3",
+          "title": "Video",
+          "icon": "Video",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
