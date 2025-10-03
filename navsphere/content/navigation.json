@@ -136,6 +136,14 @@
               "description": "Talk with Claude, an AI assistant from Anthropic",
               "icon": "https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/a13d1acfd046f503f987c1c95af582c8_low_res_Claude.png",
               "enabled": true
+            },
+            {
+              "id": "1759482270161",
+              "title": "Microsoft Copilot: Your AI companion",
+              "href": "https://copilot.microsoft.com/",
+              "description": "",
+              "icon": "/assets/favicon_1759482304667.ico",
+              "enabled": true
             }
           ]
         },
