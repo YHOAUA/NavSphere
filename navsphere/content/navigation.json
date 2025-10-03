@@ -112,7 +112,16 @@
           "icon": "MessageSquare",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1759481718458",
+              "title": "Chatgpt",
+              "href": "https://chatgpt.com/",
+              "description": "",
+              "icon": "/assets/favicon_1759481720568.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "858d3d69-4847-4c41-b8b0-556d89f9f938",
