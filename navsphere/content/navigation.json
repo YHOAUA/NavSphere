@@ -237,6 +237,14 @@
               "description": "",
               "icon": "/assets/favicon_1759536958461.png",
               "enabled": true
+            },
+            {
+              "id": "1759537000922",
+              "title": "Oldmapsonline",
+              "href": "https://www.oldmapsonline.org/zh",
+              "description": "",
+              "icon": "/assets/favicon_1759537005528.png",
+              "enabled": true
             }
           ]
         }
