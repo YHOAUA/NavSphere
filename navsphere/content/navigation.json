@@ -229,7 +229,16 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1759536941782",
+              "title": "古诗文网",
+              "href": "https://www.gushiwen.cn/",
+              "description": "",
+              "icon": "/assets/favicon_1759536958461.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
