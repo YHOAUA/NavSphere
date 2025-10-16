@@ -481,6 +481,14 @@
               "description": "",
               "icon": "/assets/favicon_1760577348953.png",
               "enabled": true
+            },
+            {
+              "id": "1760577354421",
+              "title": "霞鹜新晰黑",
+              "href": "https://github.com/lxgw/LxgwNeoXiHei",
+              "description": "",
+              "icon": "/assets/favicon_1760577361780.png",
+              "enabled": true
             }
           ]
         }
