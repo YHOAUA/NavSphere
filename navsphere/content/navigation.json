@@ -344,6 +344,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "89054533-5c4d-4629-831e-e526559d516a",
+          "title": "动漫下载",
+          "icon": "Palette",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
