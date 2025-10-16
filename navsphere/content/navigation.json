@@ -301,6 +301,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.cycani.org",
               "enabled": true
+            },
+            {
+              "id": "1760576702601",
+              "title": "橘子动漫",
+              "href": "https://www.jzacg.com/",
+              "description": "",
+              "icon": "/assets/favicon_1760576705776.png",
+              "enabled": true
             }
           ]
         }
