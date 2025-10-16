@@ -277,7 +277,16 @@
           "icon": "Palette",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760576523148",
+              "title": "咕咕番",
+              "href": "https://www.gugu3.com/",
+              "description": "",
+              "icon": "/assets/favicon_1760576541599.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
