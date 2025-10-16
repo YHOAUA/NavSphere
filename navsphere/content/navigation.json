@@ -252,6 +252,14 @@
               "description": "",
               "icon": "/assets/favicon_1760576006078.png",
               "enabled": true
+            },
+            {
+              "id": "1760576146719",
+              "title": "Flixer",
+              "href": "https://flixer.su/",
+              "description": "",
+              "icon": "/assets/favicon_1760576181113.png",
+              "enabled": true
             }
           ]
         }
