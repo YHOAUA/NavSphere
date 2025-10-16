@@ -367,6 +367,14 @@
               "description": "",
               "icon": "/assets/favicon_1760576895812.png",
               "enabled": true
+            },
+            {
+              "id": "1760576901619",
+              "title": "末日动漫资源",
+              "href": "https://share.acgnx.se/",
+              "description": "",
+              "icon": "/assets/favicon_1760576913178.png",
+              "enabled": true
             }
           ]
         }
