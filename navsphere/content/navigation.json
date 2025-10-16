@@ -432,6 +432,14 @@
               "description": "",
               "icon": "/assets/favicon_1760577162476.ico",
               "enabled": true
+            },
+            {
+              "id": "1760577175570",
+              "title": "Z-Library",
+              "href": "https://z-library.ec/",
+              "description": "",
+              "icon": "/assets/favicon_1760577178274.svg",
+              "enabled": true
             }
           ]
         }
