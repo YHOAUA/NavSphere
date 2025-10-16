@@ -220,7 +220,16 @@
           "icon": "Video",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760574154438",
+              "title": "LIBVIO",
+              "href": "https://www.libvio.site/",
+              "description": "",
+              "icon": "/assets/favicon_1760574165605.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
