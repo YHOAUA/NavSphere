@@ -513,6 +513,14 @@
               "description": "",
               "icon": "/assets/favicon_1760577412115.png",
               "enabled": true
+            },
+            {
+              "id": "1760577423635",
+              "title": "思源宋体",
+              "href": "https://github.com/adobe-fonts/source-han-serif",
+              "description": "",
+              "icon": "/assets/favicon_1760577426629.png",
+              "enabled": true
             }
           ]
         }
