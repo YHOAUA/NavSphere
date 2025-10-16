@@ -561,6 +561,14 @@
               "description": "",
               "icon": "/assets/favicon_1760577521073.png",
               "enabled": true
+            },
+            {
+              "id": "1760577537071",
+              "title": "nerd-fonts",
+              "href": "https://github.com/ryanoasis/nerd-fonts",
+              "description": "",
+              "icon": "/assets/favicon_1760577540025.png",
+              "enabled": true
             }
           ]
         }
