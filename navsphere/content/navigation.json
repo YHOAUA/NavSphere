@@ -334,6 +334,14 @@
               "description": "",
               "icon": "/assets/favicon_1760576773805.png",
               "enabled": true
+            },
+            {
+              "id": "1760576786494",
+              "title": "观影",
+              "href": "https://www.gying.net/",
+              "description": "",
+              "icon": "/assets/favicon_1760576790868.png",
+              "enabled": true
             }
           ]
         }
