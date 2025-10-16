@@ -285,6 +285,14 @@
               "description": "",
               "icon": "/assets/favicon_1760576541599.png",
               "enabled": true
+            },
+            {
+              "id": "1760576650760",
+              "title": "稀饭动漫",
+              "href": "https://dm.xifanacg.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=dm.xifanacg.com",
+              "enabled": true
             }
           ]
         }
