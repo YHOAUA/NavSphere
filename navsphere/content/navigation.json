@@ -375,6 +375,14 @@
               "description": "",
               "icon": "/assets/favicon_1760576913178.png",
               "enabled": true
+            },
+            {
+              "id": "1760577003438",
+              "title": "動漫花園資源網",
+              "href": "https://share.dmhy.org/",
+              "description": "",
+              "icon": "/assets/favicon_1760577006723.ico",
+              "enabled": true
             }
           ]
         }
