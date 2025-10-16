@@ -244,6 +244,14 @@
               "description": "",
               "icon": "/assets/favicon_1760574343495.png",
               "enabled": true
+            },
+            {
+              "id": "1760576001720",
+              "title": "3Q影视",
+              "href": "https://qqqys.com/",
+              "description": "",
+              "icon": "/assets/favicon_1760576006078.png",
+              "enabled": true
             }
           ]
         }
