@@ -489,6 +489,14 @@
               "description": "",
               "icon": "/assets/favicon_1760577361780.png",
               "enabled": true
+            },
+            {
+              "id": "1760577376306",
+              "title": "悠哉字体",
+              "href": "https://github.com/lxgw/yozai-font",
+              "description": "",
+              "icon": "/assets/favicon_1760577381098.png",
+              "enabled": true
             }
           ]
         }
