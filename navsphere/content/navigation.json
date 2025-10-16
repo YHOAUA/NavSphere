@@ -326,7 +326,16 @@
           "icon": "Video",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760576765591",
+              "title": "YTS",
+              "href": "https://yts.mx/",
+              "description": "",
+              "icon": "/assets/favicon_1760576773805.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
