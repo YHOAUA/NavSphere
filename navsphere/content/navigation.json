@@ -399,6 +399,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.comicat.org",
               "enabled": true
+            },
+            {
+              "id": "1760577091554",
+              "title": "ACG.RIP",
+              "href": "https://acg.rip/",
+              "description": "",
+              "icon": "/assets/favicon_1760577094393.png",
+              "enabled": true
             }
           ]
         }
