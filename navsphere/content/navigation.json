@@ -473,6 +473,14 @@
               "description": "",
               "icon": "/assets/favicon_1760577305484.png",
               "enabled": true
+            },
+            {
+              "id": "1760577324090",
+              "title": "霞鹜臻楷",
+              "href": "https://github.com/lxgw/LxgwZhenKai",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
