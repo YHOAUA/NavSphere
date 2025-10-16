@@ -529,6 +529,14 @@
               "description": "",
               "icon": "/assets/favicon_1760577441837.png",
               "enabled": true
+            },
+            {
+              "id": "1760577457035",
+              "title": "Google Sans Code",
+              "href": "https://github.com/googlefonts/googlesans-code",
+              "description": "",
+              "icon": "/assets/favicon_1760577460327.png",
+              "enabled": true
             }
           ]
         }
