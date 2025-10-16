@@ -448,6 +448,14 @@
               "description": "",
               "icon": "/assets/favicon_1760577195126.png",
               "enabled": true
+            },
+            {
+              "id": "1760577208294",
+              "title": "安娜档案",
+              "href": "https://zh.annas-archive.org",
+              "description": "",
+              "icon": "/assets/favicon_1760577214405.png",
+              "enabled": true
             }
           ]
         }
