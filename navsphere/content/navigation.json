@@ -319,6 +319,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "133f6b3a-2913-4bc3-a436-d7a6276069a3",
+          "title": "影视下载",
+          "icon": "Video",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
