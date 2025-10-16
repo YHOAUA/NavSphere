@@ -359,6 +359,14 @@
               "description": "",
               "icon": "/assets/favicon_1760576869087.ico",
               "enabled": true
+            },
+            {
+              "id": "1760576892868",
+              "title": "Nyaa",
+              "href": "https://nyaa.si/",
+              "description": "",
+              "icon": "/assets/favicon_1760576895812.png",
+              "enabled": true
             }
           ]
         }
