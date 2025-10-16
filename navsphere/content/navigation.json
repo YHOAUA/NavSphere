@@ -236,6 +236,14 @@
               "description": "",
               "icon": "/assets/favicon_1760574300113.png",
               "enabled": true
+            },
+            {
+              "id": "1760574339279",
+              "title": "低端影视",
+              "href": "https://ddys.pro/category/movie/",
+              "description": "",
+              "icon": "/assets/favicon_1760574343495.png",
+              "enabled": true
             }
           ]
         }
