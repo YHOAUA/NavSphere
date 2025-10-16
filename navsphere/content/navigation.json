@@ -440,6 +440,14 @@
               "description": "",
               "icon": "/assets/favicon_1760577178274.svg",
               "enabled": true
+            },
+            {
+              "id": "1760577191592",
+              "title": "Sci-hub",
+              "href": "https://sci-hub.se/",
+              "description": "",
+              "icon": "/assets/favicon_1760577195126.png",
+              "enabled": true
             }
           ]
         }
