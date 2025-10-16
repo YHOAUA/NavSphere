@@ -260,6 +260,14 @@
               "description": "",
               "icon": "/assets/favicon_1760576181113.png",
               "enabled": true
+            },
+            {
+              "id": "1760576200762",
+              "title": "P-Stream",
+              "href": "https://pstream.mov/",
+              "description": "",
+              "icon": "/assets/favicon_1760576204431.ico",
+              "enabled": true
             }
           ]
         }
