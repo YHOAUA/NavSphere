@@ -521,6 +521,14 @@
               "description": "",
               "icon": "/assets/favicon_1760577426629.png",
               "enabled": true
+            },
+            {
+              "id": "1760577439295",
+              "title": "霞鹜新致宋",
+              "href": "https://github.com/lxgw/LxgwNeoZhiSong",
+              "description": "",
+              "icon": "/assets/favicon_1760577441837.png",
+              "enabled": true
             }
           ]
         }
