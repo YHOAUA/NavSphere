@@ -545,6 +545,14 @@
               "description": "",
               "icon": "/assets/favicon_1760577475759.png",
               "enabled": true
+            },
+            {
+              "id": "1760577492348",
+              "title": "SN Pro Font",
+              "href": "https://github.com/supernotes/sn-pro",
+              "description": "SN Pro Font Family. Contribute to supernotes/sn-pro development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1760577495315.png",
+              "enabled": true
             }
           ]
         }
