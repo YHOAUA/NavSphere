@@ -497,6 +497,14 @@
               "description": "",
               "icon": "/assets/favicon_1760577381098.png",
               "enabled": true
+            },
+            {
+              "id": "1760577393948",
+              "title": "小赖字体",
+              "href": "https://github.com/lxgw/kose-font",
+              "description": "",
+              "icon": "/assets/favicon_1760577397042.png",
+              "enabled": true
             }
           ]
         }
