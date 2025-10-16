@@ -213,7 +213,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "bf813c80-a354-45c7-93b2-5e4c4aa18038",
+          "title": "在线影视",
+          "icon": "Video",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1759386707535",
