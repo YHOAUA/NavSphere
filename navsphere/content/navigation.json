@@ -537,6 +537,14 @@
               "description": "",
               "icon": "/assets/favicon_1760577460327.png",
               "enabled": true
+            },
+            {
+              "id": "1760577472633",
+              "title": "maple-font",
+              "href": "https://github.com/subframe7536/maple-font",
+              "description": "",
+              "icon": "/assets/favicon_1760577475759.png",
+              "enabled": true
             }
           ]
         }
