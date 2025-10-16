@@ -351,7 +351,16 @@
           "icon": "Palette",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760576861136",
+              "title": "蜜柑计划",
+              "href": "https://mikanani.me/",
+              "description": "",
+              "icon": "/assets/favicon_1760576869087.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
