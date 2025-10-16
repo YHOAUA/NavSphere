@@ -458,6 +458,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "5d35220a-edca-409d-89be-0c9bf52e3ef2",
+          "title": "字体下载",
+          "icon": "FileText",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
