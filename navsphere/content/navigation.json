@@ -553,6 +553,14 @@
               "description": "SN Pro Font Family. Contribute to supernotes/sn-pro development by creating an account on GitHub.",
               "icon": "/assets/favicon_1760577495315.png",
               "enabled": true
+            },
+            {
+              "id": "1760577517954",
+              "title": "monaspace",
+              "href": "https://github.com/githubnext/monaspace",
+              "description": "",
+              "icon": "/assets/favicon_1760577521073.png",
+              "enabled": true
             }
           ]
         }
