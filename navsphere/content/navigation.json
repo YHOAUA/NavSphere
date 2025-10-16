@@ -309,6 +309,14 @@
               "description": "",
               "icon": "/assets/favicon_1760576721831.ico",
               "enabled": true
+            },
+            {
+              "id": "1760658805038",
+              "title": "Bgm",
+              "href": "https://bgm.girigirilove.com/",
+              "description": "访问 bgm.girigirilove.com",
+              "icon": "https://www.acgbox.link/wp-content/uploads/2023/11/anime.girigirilove.com_.png",
+              "enabled": true
             }
           ]
         },
