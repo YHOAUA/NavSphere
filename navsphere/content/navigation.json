@@ -417,6 +417,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "49788e60-b079-4892-838e-c845c5843a69",
+          "title": "书籍下载",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
