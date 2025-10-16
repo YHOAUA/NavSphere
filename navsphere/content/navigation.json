@@ -309,6 +309,14 @@
               "description": "",
               "icon": "/assets/favicon_1760576705776.png",
               "enabled": true
+            },
+            {
+              "id": "1760576719004",
+              "title": "AGE动漫",
+              "href": "https://www.agedm.io/",
+              "description": "",
+              "icon": "/assets/favicon_1760576721831.ico",
+              "enabled": true
             }
           ]
         }
