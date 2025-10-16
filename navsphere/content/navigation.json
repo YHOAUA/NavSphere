@@ -407,6 +407,14 @@
               "description": "",
               "icon": "/assets/favicon_1760577094393.png",
               "enabled": true
+            },
+            {
+              "id": "1760577101995",
+              "title": "菲特动漫",
+              "href": "https://fitacg.com/",
+              "description": "",
+              "icon": "/assets/favicon_1760577105167.ico",
+              "enabled": true
             }
           ]
         }
