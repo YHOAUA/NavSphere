@@ -228,6 +228,14 @@
               "description": "",
               "icon": "/assets/favicon_1760574165605.ico",
               "enabled": true
+            },
+            {
+              "id": "1760574289601",
+              "title": "注视影视",
+              "href": "https://gaze.run/",
+              "description": "",
+              "icon": "/assets/favicon_1760574300113.png",
+              "enabled": true
             }
           ]
         }
