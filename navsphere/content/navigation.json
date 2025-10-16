@@ -293,6 +293,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=dm.xifanacg.com",
               "enabled": true
+            },
+            {
+              "id": "1760576670332",
+              "title": "次元城动漫",
+              "href": "https://www.cycani.org/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.cycani.org",
+              "enabled": true
             }
           ]
         }
