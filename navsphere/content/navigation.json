@@ -465,7 +465,16 @@
           "icon": "FileText",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760577301927",
+              "title": "霞鹜文楷",
+              "href": "https://github.com/lxgw/LxgwWenKai",
+              "description": "",
+              "icon": "/assets/favicon_1760577305484.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
