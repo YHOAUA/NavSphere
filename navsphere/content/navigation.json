@@ -383,6 +383,14 @@
               "description": "",
               "icon": "/assets/favicon_1760577006723.ico",
               "enabled": true
+            },
+            {
+              "id": "1760577020376",
+              "title": "爱恋动漫 BT 下载",
+              "href": "https://www.kisssub.org/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.kisssub.org",
+              "enabled": true
             }
           ]
         }
