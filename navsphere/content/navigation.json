@@ -424,7 +424,16 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760577159961",
+              "title": "Z-Library - Wikipedia",
+              "href": "https://en.wikipedia.org/wiki/Z-Library",
+              "description": "",
+              "icon": "/assets/favicon_1760577162476.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
