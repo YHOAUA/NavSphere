@@ -270,6 +270,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "dd53c4e1-2d66-4d50-9297-ac7f48bf1cb1",
+          "title": "在线动漫",
+          "icon": "Palette",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
