@@ -138,6 +138,14 @@
               "enabled": true
             },
             {
+              "id": "1762437886887",
+              "title": "Grok",
+              "href": "https://grok.com/",
+              "description": "",
+              "icon": "/assets/favicon_1762437891138.png",
+              "enabled": true
+            },
+            {
               "id": "1759482146456",
               "title": "Claude",
               "href": "https://claude.ai",
@@ -159,14 +167,6 @@
               "href": "https://www.perplexity.ai",
               "description": "",
               "icon": "/assets/favicon_1759482492754.png",
-              "enabled": true
-            },
-            {
-              "id": "1762437886887",
-              "title": "Grok",
-              "href": "https://grok.com/",
-              "description": "",
-              "icon": "/assets/favicon_1762437891138.png",
               "enabled": true
             }
           ]
