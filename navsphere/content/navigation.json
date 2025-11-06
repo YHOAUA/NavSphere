@@ -130,6 +130,14 @@
               "enabled": true
             },
             {
+              "id": "1759482146456",
+              "title": "Claude",
+              "href": "https://claude.ai",
+              "description": "Talk with Claude, an AI assistant from Anthropic",
+              "icon": "https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/a13d1acfd046f503f987c1c95af582c8_low_res_Claude.png",
+              "enabled": true
+            },
+            {
               "id": "1759482074060",
               "title": "Gemini",
               "href": "https://gemini.google.com",
@@ -151,14 +159,6 @@
               "href": "https://grok.com/",
               "description": "",
               "icon": "/assets/favicon_1762437891138.png",
-              "enabled": true
-            },
-            {
-              "id": "1759482146456",
-              "title": "Claude",
-              "href": "https://claude.ai",
-              "description": "Talk with Claude, an AI assistant from Anthropic",
-              "icon": "https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/a13d1acfd046f503f987c1c95af582c8_low_res_Claude.png",
               "enabled": true
             },
             {
