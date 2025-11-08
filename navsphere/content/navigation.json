@@ -201,7 +201,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1762599839651",
+              "title": "NotebookLM",
+              "href": "https://notebooklm.google.com/",
+              "description": "",
+              "icon": "/assets/favicon_1762599845894.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "c72049b1-b941-45d5-8327-d6486caf5c4c",
