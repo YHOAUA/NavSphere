@@ -176,6 +176,14 @@
               "description": "",
               "icon": "/assets/favicon_1762599385656.png",
               "enabled": true
+            },
+            {
+              "id": "1762599504687",
+              "title": "Qwen",
+              "href": "https://chat.qwen.ai/",
+              "description": "",
+              "icon": "/assets/favicon_1762599506881.png",
+              "enabled": true
             }
           ]
         },
