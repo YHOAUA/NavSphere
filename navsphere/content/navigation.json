@@ -184,6 +184,14 @@
               "description": "",
               "icon": "/assets/favicon_1762599506881.png",
               "enabled": true
+            },
+            {
+              "id": "1762599571244",
+              "title": "Z.ai",
+              "href": "https://chat.z.ai/",
+              "description": "",
+              "icon": "/assets/favicon_1762599573912.svg",
+              "enabled": true
             }
           ]
         },
