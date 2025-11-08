@@ -196,6 +196,14 @@
           ]
         },
         {
+          "id": "c72049b1-b941-45d5-8327-d6486caf5c4c",
+          "title": "声音",
+          "icon": "Music",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "6e792312-8ba5-4f72-a7eb-2029c3a86246",
           "title": "Analyse",
           "icon": "Folder",
@@ -207,14 +215,6 @@
           "id": "efc17349-2147-4628-8739-5ddcaf0c5fb3",
           "title": "视频",
           "icon": "Video",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "c72049b1-b941-45d5-8327-d6486caf5c4c",
-          "title": "声音",
-          "icon": "Music",
           "description": "",
           "enabled": true,
           "items": []
