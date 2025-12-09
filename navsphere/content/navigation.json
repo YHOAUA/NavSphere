@@ -240,6 +240,41 @@
       "subCategories": []
     },
     {
+      "id": "1759386707535",
+      "title": "学习资源",
+      "icon": "Book",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "d45c4dbe-07b7-4ee2-8a30-309cb4786cc3",
+          "title": "历史",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1759536941782",
+              "title": "古诗文网",
+              "href": "https://www.gushiwen.cn/",
+              "description": "",
+              "icon": "/assets/favicon_1759536958461.png",
+              "enabled": true
+            },
+            {
+              "id": "1759537000922",
+              "title": "Oldmapsonline",
+              "href": "https://www.oldmapsonline.org/zh",
+              "description": "",
+              "icon": "/assets/favicon_1759537005528.png",
+              "enabled": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1759386512949",
       "title": "素材资源",
       "icon": "Palette",
@@ -585,41 +620,6 @@
               "href": "https://github.com/ryanoasis/nerd-fonts",
               "description": "",
               "icon": "/assets/favicon_1760577540025.png",
-              "enabled": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1759386707535",
-      "title": "学习资源",
-      "icon": "Book",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "d45c4dbe-07b7-4ee2-8a30-309cb4786cc3",
-          "title": "历史",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1759536941782",
-              "title": "古诗文网",
-              "href": "https://www.gushiwen.cn/",
-              "description": "",
-              "icon": "/assets/favicon_1759536958461.png",
-              "enabled": true
-            },
-            {
-              "id": "1759537000922",
-              "title": "Oldmapsonline",
-              "href": "https://www.oldmapsonline.org/zh",
-              "description": "",
-              "icon": "/assets/favicon_1759537005528.png",
               "enabled": true
             }
           ]
