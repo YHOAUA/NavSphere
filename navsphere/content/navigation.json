@@ -171,11 +171,11 @@
             },
             {
               "id": "item-1769663015626",
-              "enabled": true,
               "title": "Kimi",
               "href": "https://www.kimi.com/",
-              "description": "月之暗面 (Moonshot AI) 旗下 Kimi K2.5 模型发布！引领开源视觉编程，同步开启 Agent 集群预览版。从像素级网页复刻到专家级办公交付，助你高效搞定复杂任务。立即访问 Kimi 官网体验。",
-              "icon": "/assets/favicon_1769663003605.png"
+              "description": "",
+              "icon": "/assets/favicon_1769663003605.png",
+              "enabled": true
             }
           ]
         },
